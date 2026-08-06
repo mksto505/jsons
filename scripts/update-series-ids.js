@@ -1,6 +1,6 @@
 const fs = require("fs/promises");
 
-const JSON_FILE = "lukudiplomi_items.json";
+const JSON_FILE = "lukudiplomi/mantsala/2026";
 
 const API_BASE_URL = "https://api.finna.fi/v1/search";
 const LIMIT = 100;
