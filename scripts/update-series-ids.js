@@ -1,6 +1,6 @@
 const fs = require("fs/promises");
 
-const JSON_FILE = "lukudiplomi.json";
+const JSON_FILE = "lukudiplomi_items.json";
 
 const API_BASE_URL = "https://api.finna.fi/v1/search";
 const LIMIT = 100;
