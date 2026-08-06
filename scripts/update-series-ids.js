@@ -26,6 +26,11 @@ function buildApiUrl(openUrl, page) {
     apiUrl.searchParams.append(key, value);
   });
 
+  apiUrl.searchParams.append(
+    "filter[]",
+    'building:"0/Kirkes/"'
+  );
+
   apiUrl.searchParams.set("limit", String(LIMIT));
   apiUrl.searchParams.set("page", String(page));
 
