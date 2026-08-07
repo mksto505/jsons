@@ -1,6 +1,7 @@
 const fs = require("fs/promises");
 
-const JSON_FILE = "lukudiplomi/mantsala/2026.json";
+const SOURCE_FILE = "lukudiplomi/mantsala/source/2026.json";
+const OUTPUT_FILE = "lukudiplomi/mantsala/2026.json";
 
 const API_BASE_URL = "https://api.finna.fi/v1/search";
 const LIMIT = 100;
@@ -113,7 +114,7 @@ function sameIds(a, b) {
 }
 
 async function main() {
-  const raw = await fs.readFile(JSON_FILE, "utf8");
+  const raw = await fs.readFile(SOURCE_FILE, "utf8");
   const items = JSON.parse(raw);
 
   if (!Array.isArray(items)) {
@@ -159,7 +160,11 @@ async function main() {
   }
 
   if (changed) {
-    await fs.writeFile(JSON_FILE, `${JSON.stringify(items, null, 2)}\n`, "utf8");
+    await fs.writeFile(
+      OUTPUT_FILE,
+      `${JSON.stringify(items, null, 2)}\n`,
+      "utf8"
+    );
   }
 
   console.log("");
