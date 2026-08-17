@@ -5,8 +5,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1586981",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -40,18 +39,18 @@
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Viisi+villi%C3%A4+Virtasta%22&type0%5B%5D=Series&lookfor0%5B%5D=Kanto%2C+Anneli&type0%5B%5D=Author&join=AND&limit=20",
     "bookSeriesIds": [
       "394915",
-      "407913",
       "389505",
+      "407913",
       "400799",
       "429907",
       "1520721",
       "383501",
-      "440784",
       "419581",
+      "440784",
       "1204241",
       "1534576",
-      "1452802",
       "1520720",
+      "1452802",
       "1654293",
       "1398447",
       "1300133",
@@ -79,8 +78,8 @@
       "16722",
       "22087",
       "241847",
-      "241844",
       "168860",
+      "241844",
       "349980",
       "14541",
       "1227645",
@@ -89,16 +88,16 @@
       "260161",
       "16838",
       "16696",
+      "17899",
+      "338301",
       "14546",
       "255426",
       "394838",
-      "338301",
-      "17899",
+      "379049",
+      "228175",
       "14667",
       "63225",
       "16081",
-      "379049",
-      "228175",
       "21547",
       "15567",
       "17766",
@@ -118,14 +117,14 @@
       "13975",
       "255425",
       "16145",
-      "349925",
       "252052",
       "349926",
-      "267873",
-      "19729",
       "14096",
+      "349925",
+      "267873",
       "14674",
       "20006",
+      "19729",
       "381435",
       "1239763",
       "428670",
@@ -149,9 +148,9 @@
       "1473694",
       "1409634",
       "1587122",
-      "13236",
       "1451549",
       "1501572",
+      "13236",
       "1393297",
       "1640422",
       "1630782",
@@ -195,76 +194,76 @@
       "1334839",
       "1501470",
       "411291",
-      "1630891",
-      "394489",
-      "1419545",
       "1501570",
       "1618077",
+      "1630891",
+      "394489",
       "410906",
       "1532647",
+      "1419545",
       "1393140",
       "1451539",
       "1587116",
       "312723",
-      "1361221",
       "1558520",
+      "1361221",
       "258370",
-      "1558644",
       "1308844",
+      "1558644",
       "1467818",
       "336676",
       "428699",
       "1620900",
+      "35732",
       "1604526",
       "1639742",
-      "35732",
+      "1393139",
       "1208615",
       "422262",
       "375299",
-      "1393139",
-      "1419425",
       "375298",
-      "1419423",
-      "1605634",
+      "1419425",
       "392701",
       "1297285",
+      "1419423",
+      "1605634",
       "375300",
+      "1451401",
       "363477",
       "1649375",
-      "1451401",
       "433785",
+      "387677",
       "375297",
       "1620911",
-      "387677",
       "1630825",
       "379048",
       "1459754",
       "1532178",
       "375295",
       "1451540",
+      "1267944",
       "1215624",
       "428707",
-      "1267944",
-      "1215629",
       "428686",
+      "1215629",
       "1455535",
       "1361222",
-      "433819",
       "1473691",
       "1435646",
+      "433819",
       "411736",
       "370195",
-      "445201",
-      "1215625",
       "349153",
+      "445201",
       "406655",
+      "1215625",
       "418337",
       "1215622",
       "363683",
       "12008",
       "369304",
-      "375296",
       "1473578",
+      "375296",
       "369302",
       "178083",
       "11588",
@@ -291,8 +290,8 @@
       "1215628",
       "440101",
       "374111",
-      "1639665",
       "245367",
+      "1639665",
       "411507",
       "433784",
       "373204",
@@ -322,9 +321,9 @@
       "363684",
       "1555674",
       "227947",
+      "334037",
       "407751",
       "37307",
-      "334037",
       "322894",
       "364398",
       "404888",
@@ -406,8 +405,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1588618",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -466,8 +464,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1605510",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -475,8 +472,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1605513",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -496,8 +492,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632171",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -505,8 +500,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "434660",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -514,8 +508,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1398735",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -523,8 +516,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632157",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -532,8 +524,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1208669",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -541,8 +532,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365951",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -565,8 +555,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1622033",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -574,8 +563,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632152",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -583,8 +571,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632183",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -592,8 +579,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1457089",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -772,8 +758,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "405537",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -867,8 +852,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365265",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -876,8 +860,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1638737",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -885,8 +868,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1495051",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -909,8 +891,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1586982",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -918,8 +899,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1607187",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -927,8 +907,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1569980",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -936,8 +915,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1604408",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -948,8 +926,8 @@
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Saapastalon+Aurora%22&type0%5B%5D=Series&lookfor0%5B%5D=Viinikainen%2C+Taru&type0%5B%5D=Author&lookfor0%5B%5D=&type0%5B%5D=Series&lookfor0%5B%5D=&type0%5B%5D=Author&join=AND&filter%5B%5D=language%3A%22fin%22&limit=20",
     "bookSeriesIds": [
       "1657382",
-      "1587128",
-      "1620906"
+      "1620906",
+      "1587128"
     ]
   },
   {
@@ -968,8 +946,8 @@
       "165096",
       "1334843",
       "1532477",
-      "445210",
       "434282",
+      "445210",
       "7940",
       "1608057",
       "231576",
@@ -989,8 +967,8 @@
       "241408",
       "1220",
       "163829",
-      "231577",
       "241410",
+      "231577",
       "191213",
       "241409",
       "267230",
@@ -1018,8 +996,8 @@
       "260378",
       "1277569",
       "186590",
-      "434018",
       "418079",
+      "434018",
       "245887",
       "411074",
       "13849",
@@ -1049,8 +1027,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1563695",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1058,8 +1035,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1615009",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1067,8 +1043,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1618080",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1076,8 +1051,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1604194",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1085,8 +1059,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1571657",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1094,8 +1067,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1607535",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1193,8 +1165,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1356267",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1202,8 +1173,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630893",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1211,8 +1181,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630901",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1220,8 +1189,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1534553",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1229,8 +1197,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1336713",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1238,8 +1205,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1566036",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1247,8 +1213,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1604196",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1256,8 +1221,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1537326",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "1",
@@ -1265,8 +1229,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1273561",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1274,8 +1237,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1583177",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1328,8 +1290,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1514123",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1339,8 +1300,8 @@
     "bookId": "187615",
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Koiram%C3%A4en+&type0%5B%5D=AllFields&lookfor0%5B%5D=kunnas%2C+mauri&type0%5B%5D=Author&bool1%5B%5D=OR&lookfor1%5B%5D=kunnas%2C+mauri&type1%5B%5D=Author&lookfor1%5B%5D=Koiram%C3%A4ki&type1%5B%5D=AllFields&join=AND&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=major_genre_str_mv%3A%22fiction%22&limit=20",
     "bookSeriesIds": [
-      "330971",
       "1658401",
+      "330971",
       "198298",
       "1616174",
       "1233683",
@@ -1349,8 +1310,8 @@
       "1543172",
       "13979",
       "1630174",
-      "10823",
       "310873",
+      "10823",
       "337808",
       "224594",
       "16136",
@@ -1370,8 +1331,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632769",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1396,11 +1356,11 @@
       "1451545",
       "394838",
       "1620885",
-      "1409634",
       "1630805",
+      "1409634",
       "381435",
-      "1630782",
       "1640422",
+      "1630782",
       "1393295",
       "267874",
       "252053",
@@ -1449,8 +1409,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1620864",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1458,8 +1417,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1424840",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1480,8 +1438,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1510728",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1489,8 +1446,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1421422",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1563,8 +1519,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632188",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1585,8 +1540,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1620947",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1597,8 +1551,8 @@
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Musse&type0%5B%5D=Subject&lookfor0%5B%5D=Brinck%2C+Camilla&type0%5B%5D=Author&lookfor0%5B%5D=&type0%5B%5D=Subject&lookfor0%5B%5D=&type0%5B%5D=Author&bool1%5B%5D=NOT&lookfor1%5B%5D=Kuvakirjat&type1%5B%5D=AllFields&lookfor1%5B%5D=&type1%5B%5D=AllFields&join=AND&filter%5B%5D=language%3A%22fin%22&limit=20",
     "bookSeriesIds": [
       "1630811",
-      "1618064",
       "1604220",
+      "1618064",
       "1532661",
       "1648497",
       "1630787",
@@ -1611,8 +1565,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1447850",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1737,8 +1690,8 @@
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Allu&type0%5B%5D=AllFields&lookfor0%5B%5D=Palviainen%2C+Jukka-Pekka&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
     "bookSeriesIds": [
       "1208330",
-      "1377274",
       "1361335",
+      "1377274",
       "1393319",
       "1604213",
       "1297374",
@@ -1774,8 +1727,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1508809",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1841,8 +1793,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1475755",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1866,8 +1817,8 @@
     "bookSeriesIds": [
       "1327680",
       "1591823",
-      "1484008",
       "1438938",
+      "1484008",
       "1376855"
     ]
   },
@@ -1877,8 +1828,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1505311",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1886,8 +1836,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1473511",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1895,8 +1844,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1398449",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1904,8 +1852,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "22223",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1913,8 +1860,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "33224",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1926,8 +1872,8 @@
     "bookSeriesIds": [
       "1657487",
       "1639766",
-      "1586990",
-      "1620881"
+      "1620881",
+      "1586990"
     ]
   },
   {
@@ -1957,8 +1903,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "441814",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -1980,8 +1925,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1227645",
-    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Peppi+Pitk%C3%A4tossu&type0%5B%5D=AllFields&lookfor0%5B%5D=Lindgren%2C+Astrid&type0%5B%5D=Author&bool1%5B%5D=NOT&lookfor1%5B%5D=Kuvakirjat&type1%5B%5D=AllFields&lookfor1%5B%5D=Paksulehtiset+kirjat&type1%5B%5D=AllFields&join=AND&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=genre_facet%3A%22Kaunokirjallisuus%22&limit=20",
-    "bookSeriesIds": null
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Peppi+Pitk%C3%A4tossu&type0%5B%5D=AllFields&lookfor0%5B%5D=Lindgren%2C+Astrid&type0%5B%5D=Author&bool1%5B%5D=NOT&lookfor1%5B%5D=Kuvakirjat&type1%5B%5D=AllFields&lookfor1%5B%5D=Paksulehtiset+kirjat&type1%5B%5D=AllFields&join=AND&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=genre_facet%3A%22Kaunokirjallisuus%22&limit=20"
   },
   {
     "gradeId": "2",
@@ -2020,19 +1964,19 @@
       "1558616",
       "363728",
       "369267",
-      "343920",
       "406646",
+      "343920",
       "440080",
-      "1321427",
       "399076",
-      "1501445",
+      "1321427",
       "418324",
+      "1501445",
       "1271666",
       "381605",
       "375327",
       "394378",
-      "428691",
       "1208182",
+      "428691",
       "1393166",
       "1361239",
       "363727",
@@ -2056,10 +2000,10 @@
       "1478035",
       "1630118",
       "1640436",
-      "1564317",
-      "1589191",
       "1508830",
       "1607519",
+      "1564317",
+      "1589191",
       "1451877",
       "1620949"
     ]
@@ -2118,8 +2062,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1457932",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2127,8 +2070,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1473583",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2136,8 +2078,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365811",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2145,8 +2086,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "387673",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2154,8 +2094,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1425362",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2163,8 +2102,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1534455",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2172,8 +2110,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630799",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2181,8 +2118,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1596756",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2190,8 +2126,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630785",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2199,8 +2134,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1564790",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2208,8 +2142,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "418332",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "2",
@@ -2217,8 +2150,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1565302",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2226,8 +2158,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1515659",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2296,8 +2227,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1532486",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2321,8 +2251,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1423596",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2330,8 +2259,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1604417",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2339,8 +2267,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1620733",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2348,8 +2275,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1556456",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2357,8 +2283,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1556445",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2366,8 +2291,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1534561",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2375,8 +2299,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1234686",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2384,8 +2307,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1529369",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2414,8 +2336,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "305485",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2423,8 +2344,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1451562",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2441,18 +2361,18 @@
       "214634",
       "203555",
       "165399",
+      "184983",
       "233984",
       "244260",
       "1604214",
-      "184983",
       "2755",
+      "205723",
+      "255656",
       "364557",
       "34813",
       "214452",
       "2742",
       "418243",
-      "205723",
-      "255656",
       "1224302",
       "422577",
       "2908",
@@ -2460,8 +2380,8 @@
       "1620903",
       "2748",
       "1334985",
-      "1566499",
       "364558",
+      "1566499",
       "1321428",
       "1630774",
       "1639730",
@@ -2494,8 +2414,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365968",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2537,10 +2456,10 @@
     "bookId": "1630795",
     "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=genre_facet%3A%22Lastenkirjallisuus%22&filter%5B%5D=genre_facet%3A%22Kaunokirjallisuus%22&filter%5B%5D=genre_facet%3A%22Suomenkielinen+kirjallisuus%22&filter%5B%5D=genre_facet%3A%22Romaanit%22&limit=20&sort=relevance&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=Tolonen%2C+Tuutikki&type0%5B%5D=Author",
     "bookSeriesIds": [
-      "433783",
       "1227649",
-      "1393322",
+      "433783",
       "1393162",
+      "1393322",
       "445199",
       "1508364",
       "1630795",
@@ -2550,9 +2469,9 @@
       "388405",
       "1451566",
       "358296",
+      "376206",
       "408099",
       "322836",
-      "376206",
       "310828",
       "350818",
       "338124"
@@ -2584,8 +2503,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1361122",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2692,22 +2610,22 @@
       "1654457",
       "1648885",
       "1416668",
+      "1395411",
       "1607184",
       "1421535",
       "1528968",
-      "1395411",
       "1581512",
-      "1510857",
       "1466985",
+      "1510857",
       "1293104",
+      "1356249",
       "1273471",
+      "1630150",
+      "1637340",
       "1336724",
       "1452924",
       "1564902",
       "1617070",
-      "1356249",
-      "1630150",
-      "1637340",
       "1654460"
     ]
   },
@@ -2772,8 +2690,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1466889",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2781,8 +2698,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "394373",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2790,8 +2706,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1231861",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2799,8 +2714,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1362990",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2808,8 +2722,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1543961",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2817,8 +2730,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365873",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2826,8 +2738,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "420745",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2835,8 +2746,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630894",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2857,8 +2767,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1421404",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2866,8 +2775,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1622240",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2875,8 +2783,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1534590",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2884,8 +2791,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1423050",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "3",
@@ -2893,8 +2799,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "359109",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2902,8 +2807,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1530768",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2911,8 +2815,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1377265",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2920,8 +2823,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1632689",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2929,8 +2831,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1590448",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2938,8 +2839,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1377266",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2975,8 +2875,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630780",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -2984,8 +2883,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1416667",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3035,8 +2933,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1586004",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3056,8 +2953,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1432841",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3143,32 +3039,32 @@
       "1649407",
       "231463",
       "343151",
+      "1576890",
       "446427",
       "1532754",
-      "1576890",
       "439989",
       "445212",
       "221014",
       "204437",
       "1657744",
+      "433043",
+      "439988",
       "1227575",
       "433796",
       "1657745",
       "1210613",
-      "433043",
-      "439988",
       "261103",
       "440515",
       "316590",
+      "1623254",
       "1297319",
       "1297316",
-      "1623254",
       "1297314",
       "1297315",
       "1361240",
+      "1532503",
       "1297317",
       "1620936",
-      "1532503",
       "1297318",
       "1473594",
       "1297320",
@@ -3185,8 +3081,8 @@
       "1649411",
       "236132",
       "236133",
-      "1331885",
       "1227573",
+      "1331885",
       "448331",
       "1227572",
       "446467",
@@ -3202,8 +3098,8 @@
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Rambon+talli&type0%5B%5D=AllFields&lookfor0%5B%5D=Hel%C3%A9n%2C+Venny&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
     "bookSeriesIds": [
       "1657397",
-      "1648486",
       "1630806",
+      "1648486",
       "1639739",
       "1604223",
       "1620890"
@@ -3276,11 +3172,11 @@
     "bookId": "440510",
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Etsiv%C3%A4toimisto+Mysteeri&type0%5B%5D=AllFields&lookfor0%5B%5D=Tynkkynen%2C+Jutta&type0%5B%5D=Author&join=AND&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&limit=20",
     "bookSeriesIds": [
+      "1301512",
+      "1620951",
       "1230471",
       "1425493",
       "1535024",
-      "1301512",
-      "1620951",
       "1366047",
       "1589189",
       "1478029",
@@ -3313,8 +3209,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1620859",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3369,8 +3264,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "422225",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3378,8 +3272,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1234691",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3429,8 +3322,8 @@
       "439889",
       "429017",
       "394373",
-      "1228991",
       "434018",
+      "1228991",
       "245887",
       "411074",
       "305204",
@@ -3454,8 +3347,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "263652",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3463,8 +3355,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1204297",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3472,8 +3363,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1624229",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3510,8 +3400,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1639758",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3519,8 +3408,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1566497",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3528,8 +3416,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1246472",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3537,8 +3424,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365853",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3546,8 +3432,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1605061",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3555,8 +3440,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1639756",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3564,8 +3448,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1607240",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "4",
@@ -3573,8 +3456,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "413198",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3582,8 +3464,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1341188",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3591,8 +3472,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1620162",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3600,8 +3480,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1396714",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3609,8 +3488,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1575581",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3618,8 +3496,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1605605",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3627,8 +3504,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1590442",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3636,8 +3512,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365265",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3645,8 +3520,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "344100",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3654,8 +3528,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1365266",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3720,15 +3593,15 @@
       "440083",
       "1208174",
       "1419446",
+      "1639681",
+      "1558620",
+      "1451415",
       "1455530",
       "1501450",
       "1617089",
       "1630877",
-      "1334859",
-      "1639681",
-      "1558620",
-      "1451415",
       "1393156",
+      "1334859",
       "1604468",
       "1630905",
       "1271668",
@@ -3777,8 +3650,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1581514",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3786,8 +3658,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1620863",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3795,8 +3666,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1604501",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3827,109 +3697,109 @@
       "401810",
       "434276",
       "424287",
-      "429942",
       "412897",
-      "434278",
+      "429942",
       "429943",
-      "397061",
-      "413007",
+      "434278",
       "424286",
       "446024",
+      "397061",
+      "413007",
       "440470",
-      "1205347",
       "401807",
-      "1483714",
+      "1205347",
       "446023",
-      "446477",
       "1228844",
+      "1483714",
+      "446477",
       "1396091",
       "1483698",
-      "1483711",
       "1228846",
-      "1228845",
-      "1483713",
+      "1483711",
       "440469",
+      "1483713",
+      "1228845",
       "1270803",
+      "1527100",
       "1271867",
       "1335855",
-      "1527100",
-      "1298857",
       "1475080",
       "1270802",
+      "1298857",
       "1205346",
       "1566617",
       "1512149",
       "370403",
       "1566616",
+      "365261",
       "1454688",
       "1566619",
-      "1605632",
-      "365261",
-      "1298863",
       "1535190",
       "1271876",
-      "1360416",
+      "1605632",
+      "1298863",
       "1275185",
+      "1360416",
       "1273053",
-      "1570125",
-      "1271877",
       "388922",
-      "1360417",
-      "1558504",
+      "1271877",
       "1512150",
       "1237084",
       "1454686",
+      "1570125",
+      "1360417",
+      "1558504",
+      "1558505",
       "1298859",
       "1568828",
-      "1558505",
+      "1648489",
+      "377735",
       "1568826",
       "384196",
-      "377735",
+      "1475729",
       "1568827",
       "1298864",
-      "1648489",
-      "1475729",
+      "1620875",
       "1396092",
       "1454687",
       "1566615",
-      "1620875",
-      "1604201",
-      "1618072",
-      "1298860",
-      "1583187",
       "365262",
-      "1636924",
-      "1568829",
       "1535564",
       "1587147",
-      "1568825",
+      "1583187",
+      "1604201",
+      "1618072",
       "1630814",
+      "1298860",
+      "1636924",
+      "1568829",
+      "1568825",
       "1335854",
-      "1570130",
-      "1650170",
-      "1558506",
       "1360419",
       "1396100",
-      "1570127",
+      "1570130",
+      "1558506",
+      "1650170",
       "1454685",
-      "1641313",
-      "1570126",
-      "1298862",
+      "1570127",
       "1298861",
-      "1420096",
+      "1570126",
+      "1641313",
+      "1298862",
       "1566618",
-      "1570124",
+      "1420096",
       "1475728",
+      "1570124",
+      "1512151",
       "1360415",
       "1475727",
-      "1512151",
       "1570157",
       "1604589",
+      "1570129",
       "1420097",
       "1360420",
-      "1570129",
-      "1298865",
       "1570155",
+      "1298865",
       "1420095",
       "1568830",
       "1360418",
@@ -3940,16 +3810,16 @@
       "1641400",
       "1298858",
       "1570150",
+      "1570128",
       "1570161",
       "1570132",
-      "1570128",
       "1570135",
-      "1570153",
       "1570152",
+      "1570153",
       "1570149",
+      "1641399",
       "1570159",
       "1271878",
-      "1641399",
       "1641315",
       "1512155",
       "1512157",
@@ -3963,8 +3833,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1604467",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -3995,9 +3864,9 @@
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Karsein+viikko+ikin%C3%A4%22&type0%5B%5D=Series&lookfor0%5B%5D=Amores%2C+Eva&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
     "bookSeriesIds": [
       "1588626",
+      "1616232",
       "1607378",
       "1630167",
-      "1616232",
       "1648911",
       "1637356",
       "1581504"
@@ -4011,19 +3880,19 @@
     "bookId": "1356246",
     "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Maailman+paras+puumaja&type0%5B%5D=Title&lookfor0%5B%5D=Griffiths%2C+Andy&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
     "bookSeriesIds": [
+      "1416660",
       "1452931",
       "1564918",
       "1581506",
-      "1416660",
-      "1356246",
-      "1362324",
-      "1528965",
-      "1607183",
       "1466977",
       "1510862",
       "1616951",
       "1640957",
-      "1648920"
+      "1648920",
+      "1356246",
+      "1362324",
+      "1528965",
+      "1607183"
     ]
   },
   {
@@ -4032,8 +3901,7 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1630171",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
   },
   {
     "gradeId": "5",
@@ -4041,7 +3909,1151 @@
     "itemType": "book",
     "itemName": "",
     "bookId": "1648922",
-    "openUrl": "",
-    "bookSeriesIds": null
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Huvittavaa menoa",
+    "itemType": "series",
+    "itemName": "Neropatin päiväkirja",
+    "bookId": "363505",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20&sort=relevance&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=Neropatin+p%C3%A4iv%C3%A4kirja&lookfor0%5B%5D=Kinney%2C+Jeff+&type0%5B%5D=Title&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1657400",
+      "1227660",
+      "1639721",
+      "1473703",
+      "445184",
+      "363505",
+      "411439",
+      "422220",
+      "440047",
+      "1620905",
+      "433821",
+      "1208335",
+      "1361342",
+      "1297379",
+      "1419566",
+      "1321429",
+      "1532674",
+      "1587142",
+      "1506879",
+      "367627",
+      "379066",
+      "406502",
+      "394870",
+      "1432844",
+      "1532075",
+      "1514699",
+      "1353608"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Clue",
+    "bookId": "436742",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Clue&type0%5B%5D=Series&lookfor0%5B%5D=Horst%2C+J%C3%B8rn+Lier&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
+    "bookSeriesIds": [
+      "1475820",
+      "436742",
+      "1452937",
+      "1622063",
+      "1607229",
+      "1534416",
+      "1510859",
+      "1564901",
+      "1630145",
+      "1640956",
+      "1416647",
+      "1528960",
+      "1356225",
+      "1588631"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Pelkovaara ",
+    "bookId": "1637330",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Pelkovaara&type0%5B%5D=Title&lookfor0%5B%5D=Lindmo&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
+    "bookSeriesIds": [
+      "1657670",
+      "1648472",
+      "1637330"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Waaralinnan salaisuudet",
+    "bookId": "1508297",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Waaralinnan+salaisuudet%22&type0%5B%5D=Series&lookfor0%5B%5D=Malinen%2C+Janne&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1605720",
+      "1566436",
+      "1508297"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Seikkailuserkut",
+    "bookId": "1203201",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20&sort=relevance&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Seikkailuserkut%22&lookfor0%5B%5D=Mazetti%2C+Katarina&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1203201",
+      "1233717",
+      "1528972",
+      "1564928",
+      "1452938",
+      "1395415",
+      "1588632",
+      "1293110",
+      "1336723",
+      "1273474"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Etsivätoimisto Henkka & Kivimutka",
+    "bookId": "1654281",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Henkka+%26+Kivimutka%22&type0%5B%5D=Title&lookfor0%5B%5D=Veirto%2C+Kalle&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
+    "bookSeriesIds": [
+      "351710",
+      "351709",
+      "1300123",
+      "383491",
+      "371070",
+      "394909",
+      "400793",
+      "389497",
+      "359017",
+      "434582",
+      "1234684",
+      "376822",
+      "364715",
+      "1365864",
+      "423351",
+      "1421418",
+      "1588545",
+      "1637344",
+      "446059",
+      "1534566",
+      "1616956",
+      "1654281",
+      "1466882"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1297301",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Pax%22&type0%5B%5D=Series&lookfor0%5B%5D=Larsson%2C+%C3%85sa&type0%5B%5D=Author&join=AND&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&limit=20"
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Kauhu",
+    "itemType": "series",
+    "itemName": "Pax",
+    "bookId": "1452939",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Kauhu",
+    "itemType": "series",
+    "itemName": "Lumola",
+    "bookId": "1622035",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Lumola%22&type0%5B%5D=Series&lookfor0%5B%5D=Meresmaa%2C+J.+S&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1622035",
+      "1630203",
+      "1648468"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Kauhu",
+    "itemType": "series",
+    "itemName": "Hovenäsetin lapset",
+    "bookId": "1620918",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Hoven%C3%A4setin+lapset&type0%5B%5D=AllFields&lookfor0%5B%5D=Ohlsson%2C+Kristina&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1639740",
+      "1503685",
+      "1444761",
+      "1532608",
+      "1583153",
+      "1627386",
+      "1655189",
+      "1620918",
+      "1615071",
+      "1650473",
+      "1557286",
+      "1637181",
+      "1615097",
+      "1650514",
+      "1566507"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Scifi",
+    "itemType": "series",
+    "itemName": "Faraday",
+    "bookId": "1638533",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Faraday%22&type0%5B%5D=Subject&lookfor0%5B%5D=Archer%2C+Jeffrey&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1638537",
+      "1638533"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Scifi",
+    "itemType": "series",
+    "itemName": "Kepler62",
+    "bookId": "433822",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=Kepler62&lookfor0%5B%5D=Parvela%2C+Timo&type0%5B%5D=Title&type0%5B%5D=Author&sort=main_date_str+desc&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&bool0%5B%5D=AND&lookfor0%5B%5D=Kepler62&lookfor0%5B%5D=Parvela%2C+Timo&type0%5B%5D=Title&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1501544",
+      "1439772",
+      "1455386",
+      "1419568",
+      "1419569",
+      "1438940",
+      "1438941",
+      "1361339",
+      "1361340",
+      "1297377",
+      "1321425",
+      "1227656",
+      "1227657",
+      "440046",
+      "445183",
+      "433822",
+      "433823"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Toiminta",
+    "itemType": "series",
+    "itemName": "Maailman viimeiset tyypit",
+    "bookId": "1334986",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Maailman+viimeiset+tyypit&type0%5B%5D=Title&lookfor0%5B%5D=Brallier%2C+Max&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20",
+    "bookSeriesIds": [
+      "1419571",
+      "1334986",
+      "1605626",
+      "1655136",
+      "1473702",
+      "1393324",
+      "1361341",
+      "1501550",
+      "1532671",
+      "1419570",
+      "1451565",
+      "1587140",
+      "1558493"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Toiminta",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1620929",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Lastenromaanit - Urheilu",
+    "itemType": "series",
+    "itemName": "Onnenpotku",
+    "bookId": "1557624",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20&sort=relevance&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Onnenpotku%22&lookfor0%5B%5D=Kuutti%2C+Maria&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1607381",
+      "1528870",
+      "1565009",
+      "1630193",
+      "1648470",
+      "1557624"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Nuortenromaanti",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1528878",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Nuortenromaanti",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1501442",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1205345",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1630915",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Runot",
+    "itemType": "series",
+    "itemName": "Kirsi Kunnas",
+    "bookId": "1620876",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?limit=0&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=genre_facet%3A%22Runot%22&lookfor=%22Kunnas%2C+Kirsi%22&type=Author",
+    "bookSeriesIds": [
+      "9033",
+      "64343",
+      "363482",
+      "17335",
+      "9406",
+      "245800",
+      "224881",
+      "11012",
+      "15732",
+      "304710",
+      "11381",
+      "400678",
+      "11010",
+      "418421",
+      "11014",
+      "422214",
+      "1655135",
+      "411442",
+      "1297364",
+      "1419547",
+      "1620876",
+      "448747",
+      "1297363",
+      "1618080",
+      "1636935",
+      "8292",
+      "384814",
+      "1604194",
+      "1451494",
+      "9466",
+      "1626336",
+      "272500",
+      "40680",
+      "363680",
+      "14960",
+      "217652",
+      "219618",
+      "235067",
+      "375287",
+      "7841",
+      "1236099",
+      "369910",
+      "400722",
+      "241059",
+      "411839",
+      "18347",
+      "174034",
+      "394373",
+      "245887",
+      "411074",
+      "305204",
+      "422757",
+      "41553",
+      "228571",
+      "310811",
+      "29253",
+      "36556",
+      "28249",
+      "40892",
+      "16541",
+      "69536",
+      "234680",
+      "359584",
+      "270763",
+      "69818",
+      "230888",
+      "29252",
+      "29254",
+      "28040",
+      "14230",
+      "358160",
+      "31625",
+      "67862",
+      "180467",
+      "187509",
+      "40120",
+      "192889",
+      "42561",
+      "41604",
+      "37569",
+      "1475793",
+      "180384",
+      "29851"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1361230",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Tintin",
+    "bookId": "1636922",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=language%3A%22fin%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&lookfor=%22Tintin+seikkailut%22&type=Series&sort=main_date_str+desc&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22",
+    "bookSeriesIds": [
+      "1636922",
+      "1508233",
+      "1508232",
+      "1508234",
+      "1363430",
+      "1293086",
+      "1293085",
+      "1203205",
+      "446152",
+      "446151",
+      "434984",
+      "434983",
+      "393597",
+      "393599",
+      "393598",
+      "409030",
+      "409029",
+      "388549",
+      "344254",
+      "344405",
+      "344253",
+      "344256",
+      "1339622",
+      "1226185",
+      "332517",
+      "1227746",
+      "1228006",
+      "1230811",
+      "1228007",
+      "20706",
+      "1342639",
+      "441196",
+      "441879",
+      "1227742",
+      "1228193",
+      "1508229",
+      "1227713",
+      "1232730",
+      "318120",
+      "1228012",
+      "20671",
+      "16075",
+      "1227714",
+      "1227767",
+      "1519042",
+      "439790",
+      "1226184",
+      "1228204",
+      "14922",
+      "1228008",
+      "16148",
+      "275846",
+      "1226186",
+      "23178",
+      "20689",
+      "269603",
+      "269602",
+      "220451",
+      "269595",
+      "1227765",
+      "20818",
+      "191749",
+      "275831",
+      "164787",
+      "20709",
+      "20693",
+      "20701",
+      "275815",
+      "20345",
+      "20704",
+      "219783",
+      "20692",
+      "20685",
+      "20669",
+      "20695",
+      "16147",
+      "1228194"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Amuletti",
+    "bookId": "1617052",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=language%3A%22fin%22&lookfor=%22Amuletti%22&type=Series&sort=main_date_str+asc&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=language%3A%22fin%22",
+    "bookSeriesIds": [
+      "1617052",
+      "1622047",
+      "1637320",
+      "1630139",
+      "1648915"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Lightfall",
+    "bookId": "1604219",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?limit=0&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=building_sub_str_mv%3A%222%22&filter%5B%5D=language%3A%22fin%22&lookfor=%22Lightfall%22&type=Series",
+    "bookSeriesIds": [
+      "1604219",
+      "1620915",
+      "1630810",
+      "1657403"
+    ]
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1605639",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1604212",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1419457",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1587133",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1475763",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "5",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1588622",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1459068",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1638743",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1633198",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1620752",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1327688",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1590449",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Selkokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1657238",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1203208",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "417916",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "388172",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "440472",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "series",
+    "itemName": "Valpuri Kyni",
+    "bookId": "1546731",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Valpuri+Kyni%22&type0%5B%5D=Series&lookfor0%5B%5D=Holm%2C+Esko&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1641518",
+      "1546731",
+      "1623033"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1271487",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "434468",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit",
+    "itemType": "series",
+    "itemName": "Masi Tulppa",
+    "bookId": "1203725",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Masi%22&type0%5B%5D=Title&lookfor0%5B%5D=M%C3%A4kip%C3%A4%C3%A4%2C+Jari&type0%5B%5D=Author&join=AND&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&limit=20",
+    "bookSeriesIds": [
+      "1203725",
+      "1297299",
+      "1361238",
+      "1385230"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Fantasia",
+    "itemType": "series",
+    "itemName": "Purppurausvan animaagit",
+    "bookId": "1605716",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Purppurausvan+animaagit%22&type0%5B%5D=Series&lookfor0%5B%5D=Immonen%2C+Helena&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1655108",
+      "1657468",
+      "1639689",
+      "1630916",
+      "1605716",
+      "1620937",
+      "1649432",
+      "1650203",
+      "1639715"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Hevoset",
+    "itemType": "series",
+    "itemName": "Hevoskallion kuiskaajat",
+    "bookId": "1605710",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Hevoskallion+kuiskaajat%22&type0%5B%5D=Series&lookfor0%5B%5D=Alongi%2C+Katariina&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1655132",
+      "1650190",
+      "1630920",
+      "1605710",
+      "1649422"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Huvittavaa menoa",
+    "itemType": "series",
+    "itemName": "Jasu",
+    "bookId": "1300125",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Lahtinen%2C+Jasu%22&type0%5B%5D=Subject&lookfor0%5B%5D=Ikola%2C+Markus&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1300125",
+      "1466887",
+      "1640794",
+      "1616946",
+      "1421415",
+      "1565002",
+      "1365862"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Huvittavaa menoa",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1451424",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Harmaa hakkeri",
+    "bookId": "1421412",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Harmaa+Hakkeri&type0%5B%5D=Title&lookfor0%5B%5D=Hulkko%2C+Johanna&type0%5B%5D=Author&join=AND&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&limit=20",
+    "bookSeriesIds": [
+      "1534567",
+      "1475926",
+      "1421412"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Explorer Academy",
+    "bookId": "1501397",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Explorer+Academy%22&lookfor0%5B%5D=Trueit%2C+Trudi&type0%5B%5D=Series&type0%5B%5D=Author&sort=main_date_str+asc&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&bool0%5B%5D=AND&lookfor0%5B%5D=%22Explorer+Academy%22&lookfor0%5B%5D=Trueit%2C+Trudi&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1501397",
+      "1532531",
+      "1558588",
+      "1587032",
+      "1605725"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Lastenromaanit - Urheilu",
+    "itemType": "series",
+    "itemName": "Tähtiketju",
+    "bookId": "1276454",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22T%C3%A4htiketju%22&type0%5B%5D=Series&lookfor0%5B%5D=Veirto%2C+Kalle&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1276454",
+      "1337994",
+      "1565012",
+      "1452794",
+      "1608955",
+      "1510720",
+      "1398435"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "series",
+    "itemName": "Cheertytöt",
+    "bookId": "1366043",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Cheertyt%C3%B6t%22&type0%5B%5D=Series&lookfor0%5B%5D=Aho%2C+Marja&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1425490",
+      "1589183",
+      "1649712",
+      "1630117",
+      "1366043",
+      "1508829"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "series",
+    "itemName": "Hammersmith United",
+    "bookId": "1583130",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Hammersmith+United%22&lookfor0%5B%5D=Behm%2C+Jukka&type0%5B%5D=Series&type0%5B%5D=Author&sort=main_date_str+asc&bool0%5B%5D=AND&lookfor0%5B%5D=%22Hammersmith+United%22&lookfor0%5B%5D=Behm%2C+Jukka&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1583130",
+      "1617106",
+      "1630129",
+      "1630904",
+      "1635517",
+      "1643973",
+      "1649420",
+      "1649395",
+      "1657477"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "series",
+    "itemName": "Veevi",
+    "bookId": "1605717",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22%5BVeevi%5D%22&type0%5B%5D=Series&lookfor0%5B%5D=Kortesuo%2C+Katleena&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1657438",
+      "1605717",
+      "1639717"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1564916",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1532510",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1564887",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1510719",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1564917",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit",
+    "itemType": "series",
+    "itemName": "Kosonen",
+    "bookId": "1398439",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22%5BKosonen%5D%22&type0%5B%5D=Series&lookfor0%5B%5D=Palviainen%2C+Jukka-Pekka&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1581424",
+      "1452793",
+      "1616957",
+      "1654279",
+      "1398439",
+      "1528873",
+      "1637377",
+      "1655038"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Fantasia",
+    "itemType": "series",
+    "itemName": "Kaksoismaailmat",
+    "bookId": "1630939",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&limit=20&sort=relevance&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Kaksoismaailmat%22&lookfor0%5B%5D=Kolu%2C+Siri&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1630939",
+      "1649428"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Fantasia",
+    "itemType": "series",
+    "itemName": "Olipa kerran",
+    "bookId": "1583183",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Dastani%2C+Marjan%22&lookfor0%5B%5D=Monsef%2C+Kiyash&type0%5B%5D=Subject&type0%5B%5D=Author&sort=main_date_str+asc&bool0%5B%5D=AND&lookfor0%5B%5D=%22Dastani%2C+Marjan%22&lookfor0%5B%5D=Monsef%2C+Kiyash&type0%5B%5D=Subject&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1583183",
+      "1636926"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Fantasia",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1528987",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Fantasia",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1452676",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Fantasia",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1451578",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Jännitys",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1566462",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanit - Jännitys",
+    "itemType": "series",
+    "itemName": "Ryhmä Error",
+    "bookId": "1475827",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Ryhm%C3%A4+Error%22&type0%5B%5D=Series&lookfor0%5B%5D=Ojala%2C+Anu&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1564925",
+      "1607376",
+      "1475827",
+      "1630164",
+      "1648919"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuortenromaanti - Scifi",
+    "itemType": "series",
+    "itemName": "The Ghost Network",
+    "bookId": "1356264",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=%22Laine%2C+John%22&type0%5B%5D=Subject&lookfor0%5B%5D=Davidson%2C+I.+I.&type0%5B%5D=Author&join=AND&limit=20",
+    "bookSeriesIds": [
+      "1395418",
+      "1356264",
+      "1416684"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1225058",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "363760",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1589062",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuorten runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1399741",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Nuorten runot",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "400687",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Sisarukset Grémillet",
+    "bookId": "1514440",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=Sisarukset+Gr%C3%A9millet&lookfor0%5B%5D=Di+Gregorio%2C+Giovanni%2C&type0%5B%5D=Title&type0%5B%5D=Author&sort=main_date_str+asc&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=language%3A%22fin%22&bool0%5B%5D=AND&lookfor0%5B%5D=Sisarukset+Gr%C3%A9millet&lookfor0%5B%5D=Di+Gregorio%2C+Giovanni%2C&type0%5B%5D=Title&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1514440",
+      "1533449",
+      "1566052",
+      "1592907",
+      "1622547",
+      "1630967"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Sorceline",
+    "bookId": "1566054",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=sorceline&lookfor0%5B%5D=Douy%C3%A9%2C+Sylvia&type0%5B%5D=Title&type0%5B%5D=Author&sort=main_date_str+asc&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&bool0%5B%5D=AND&lookfor0%5B%5D=sorceline&lookfor0%5B%5D=Douy%C3%A9%2C+Sylvia&type0%5B%5D=Title&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1566054",
+      "1592909",
+      "1605042",
+      "1630969",
+      "1650802"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Pohjantuli",
+    "bookId": "1478062",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Pohjantuli%22&lookfor0%5B%5D=Falch%2C+Malin&type0%5B%5D=Series&type0%5B%5D=Author&sort=main_date_str+asc&bool0%5B%5D=AND&lookfor0%5B%5D=%22Pohjantuli%22&lookfor0%5B%5D=Falch%2C+Malin&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1478062",
+      "1514439",
+      "1533460",
+      "1566051",
+      "1592904",
+      "1605039",
+      "1630966",
+      "1658218"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Sarjakuvat",
+    "itemType": "series",
+    "itemName": "Mira",
+    "bookId": "1581509",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=%22Mira%22&lookfor0%5B%5D=Lemire%2C+Sabine&type0%5B%5D=Series&type0%5B%5D=Author&sort=main_date_str+asc&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&bool0%5B%5D=AND&lookfor0%5B%5D=%22Mira%22&lookfor0%5B%5D=Lemire%2C+Sabine&type0%5B%5D=Series&type0%5B%5D=Author",
+    "bookSeriesIds": [
+      "1581509",
+      "1607235",
+      "1616959",
+      "1630142",
+      "1637365",
+      "1648886",
+      "1654461"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1366660",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Tietokirjat",
+    "itemType": "series",
+    "itemName": "Pysäyttämätön ihminen",
+    "bookId": "1532688",
+    "openUrl": "https://kirkes.finna.fi/Search/Results?sort=relevance&bool0%5B%5D=AND&lookfor0%5B%5D=Pys%C3%A4ytt%C3%A4m%C3%A4t%C3%B6n+ihminen&type0%5B%5D=Title&lookfor0%5B%5D=Harari%2C+Yuval+Noah&type0%5B%5D=Author&join=AND&filter%5B%5D=language%3A%22fin%22&filter%5B%5D=format%3A%221%2FBook%2FBook%2F%22&limit=20",
+    "bookSeriesIds": [
+      "1532688",
+      "1630798",
+      "1603983"
+    ]
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Tietokirjat",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1337944",
+    "openUrl": ""
+  },
+  {
+    "gradeId": "6",
+    "categoryName": "Tietokirjat - Nuoret",
+    "itemType": "book",
+    "itemName": "",
+    "bookId": "1616966",
+    "openUrl": ""
   }
 ]
